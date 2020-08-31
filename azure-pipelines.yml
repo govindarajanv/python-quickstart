@@ -42,7 +42,7 @@ jobs:
       reportDirectory: '$(System.DefaultWorkingDirectory)/**/htmlcov'
   - script: |
       docker run --rm -i hadolint/hadolint < Dockerfile
-      displayName: 'Dockerfile Lint'
+    displayName: 'Dockerfile Lint'
   - script: |
       docker build -t govindarajanv/hello-world .
     displayName: 'Docker build'
