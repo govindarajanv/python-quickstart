@@ -37,6 +37,9 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+    - name: Dockerfile Linting
+      run: docker run --rm -i hadolint/hadolint < Dockerfile
+      timeout-minutes: 1
     - name: Docker Build
       run: docker build -t govindarajanv/hello-world .
     - name: Docker Run
