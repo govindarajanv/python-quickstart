@@ -21,8 +21,8 @@ jobs:
     displayName: 'Install requirements'
   - script: python src/example.py
   - script: |
-    python -m pip install flake8
-    flake8 .
+      python -m pip install flake8
+      flake8 .
     displayName: 'Run lint tests'
   - script: |
     pip install pytest
