@@ -44,5 +44,6 @@ jobs:
       docker build -t govindarajanv/hello-world .
     displayName: 'Docker build'
   - script: |
-      docker run --rm -p 8000:8000 datawire/hello-world
+      docker run --rm -p 8000:8000 govindarajanv/hello-world
     displayName: 'Docker run'
+    timeoutInMinutes: 1
