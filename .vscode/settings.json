@@ -1,0 +1,48 @@
+{
+    "workbench.colorTheme": "Quiet Light",
+    "workbench.editor.highlightModifiedTabs": true,
+    "python.pythonPath": "/Users/govindarajanv/workstation/Github/python-quickstart/venv/bin/python3"
+    "python.linting.enabled": false,
+    "python.testing.promptToConfigure": false,
+    "python.workspaceSymbols.enabled": false,
+    "python.formatting.provider": "black",
+    "[python]": {
+        "editor.formatOnSave": true
+    },
+    "editor.suggestSelection": "first",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": true,
+    "editor.fontLigatures": true,
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "smooth",
+    "editor.acceptSuggestionOnEnter": "off",
+    "files.autoSave": "afterDelay",
+    "files.trimFinalNewlines": true,
+    "files.exclude": {
+        "**/.git": true,
+        ".vscode": true,
+        "**/__pycache__": true,
+        "**/**/*.pyc": true
+    }
+    "explorer.sortOrder": "type",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "aws.telemetry": true,
+    "vs-kubernetes": {
+        "vs-kubernetes.helm-path.mac": "/Users/govindarajanv/.vs-kubernetes/tools/helm/darwin-amd64/helm",
+        "vs-kubernetes.kubectl-path.mac": "/Users/govindarajanv/.vs-kubernetes/tools/kubectl/kubectl",
+        "vs-kubernetes.minikube-path.mac": "/Users/govindarajanv/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+        "vs-kubernetes.draft-path.mac": "/Users/govindarajanv/.vs-kubernetes/tools/draft/darwin-amd64/draft"
+    },
+    "search.exclude": {
+        "out": true, // set this to false to include "out" folder in search results
+        "**/node_modules": true,
+        "coverage": true,
+        "languageServer*/**": true,
+        ".vscode-test": true,
+        ".vscode test": true
+    },
+    "git.autofetch": true
+}
