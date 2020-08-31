@@ -2,6 +2,20 @@
 
 # Python Quickstart - Boiler Plate Code
 
-## Links
+This repository is for quickly helping developers with a boiler plate for python code. Below are the dependencies
+
+- Pipeline requirements are met using both Github Actions and Azure DevOps
+- Unit testing framework using pytest
+- All dependent packages to be updated in requirements.txt
+
+### Note
+
+This repository is not to be used for getting boiler-plate for Python based web application.
+
+### Support
+
+Please raise [an issue](https://github.com/govindarajanv/python-quickstart/issues) under this repository for any support related needs.
+
+### Links
 
 - [Documentation](https://govindarajanv.github.io/python-quickstart/)
