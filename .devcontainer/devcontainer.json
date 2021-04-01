@@ -1,0 +1,13 @@
+{
+  "name": "Python Boilerplate",
+  "dockerFile": "Dockerfile",
+  "appPort": 3000,
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "postCreateCommand": "bash /tmp/library-scripts/common-debian.sh",
+  // Comment out the next line to run as root instead. Linux users, update
+  // Dockerfile with your user's UID/GID if not 1000.
+  "runArgs": ["-u", "node"],
+  "extensions": ["msjsdiag.debugger-for-chrome", "coenraads.bracket-pair-colorizer","dbaeumer.vscode-eslint"]
+}
