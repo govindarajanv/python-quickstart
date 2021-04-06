@@ -1,7 +1,7 @@
 ![Python Quickstart Template](https://github.com/govindarajanv/python-quickstart/workflows/Python%20package/badge.svg?branch=master)[![Build Status](https://dev.azure.com/govindarajanv/govindarajanv/_apis/build/status/govindarajanv.python-quickstart?branchName=master)](https://dev.azure.com/govindarajanv/govindarajanv/_build/latest?definitionId=4&branchName=master)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/govindarajanv/python-quickstart/HEAD)
 [![HitCount](http://hits.dwyl.com/govindarajanv/python-quickstart.svg)](http://hits.dwyl.com/govindarajanv/python-quickstart)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0/)
 [![Python 3](https://pyup.io/repos/github/govindarajanv/python-quickstart/python-3-shield.svg)](https://pyup.io/repos/github/govindarajanv/python-quickstart/)
 [![Updates](https://pyup.io/repos/github/govindarajanv/python-quickstart/shield.svg)](https://pyup.io/repos/github/govindarajanv/python-quickstart/)
 
