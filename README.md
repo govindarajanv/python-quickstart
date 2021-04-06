@@ -1,5 +1,7 @@
 ![Python Quickstart Template](https://github.com/govindarajanv/python-quickstart/workflows/Python%20package/badge.svg?branch=master)[![Build Status](https://dev.azure.com/govindarajanv/govindarajanv/_apis/build/status/govindarajanv.python-quickstart?branchName=master)](https://dev.azure.com/govindarajanv/govindarajanv/_build/latest?definitionId=4&branchName=master)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/govindarajanv/python-quickstart/HEAD)
+[![HitCount](http://hits.dwyl.com/govindarajanv/python-quickstart.svg)](http://hits.dwyl.com/govindarajanv/python-quickstart)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Python Quickstart - Boiler Plate Code
 
