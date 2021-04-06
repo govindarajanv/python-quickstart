@@ -2,6 +2,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/govindarajanv/python-quickstart/HEAD)
 [![HitCount](http://hits.dwyl.com/govindarajanv/python-quickstart.svg)](http://hits.dwyl.com/govindarajanv/python-quickstart)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3](https://pyup.io/repos/github/govindarajanv/python-quickstart/python-3-shield.svg)](https://pyup.io/repos/github/govindarajanv/python-quickstart/)
+[![Updates](https://pyup.io/repos/github/govindarajanv/python-quickstart/shield.svg)](https://pyup.io/repos/github/govindarajanv/python-quickstart/)
 
 # Python Quickstart - Boiler Plate Code
 
